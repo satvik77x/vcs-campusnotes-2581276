@@ -1,0 +1,6 @@
+1. DSA
+2. Maths
+3. VCS
+4. Reminders
+5. Weekly Study Plan
+6. README
