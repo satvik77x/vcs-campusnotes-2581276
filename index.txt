@@ -3,4 +3,4 @@
 3. VCS
 4. Reminders
 5. Weekly Study Plan
-6. README
+6. README.md
